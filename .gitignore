@@ -1,15 +1,2 @@
-/bin.****/
-/obj.****/
-obj/Debug/netcoreapp1.1/hellowp.pdb
-bin/Debug/netcoreapp1.1/hellowp.deps.json
-bin/Debug/netcoreapp1.1/hellowp.dll
-bin/Debug/netcoreapp1.1/hellowp.pdb
-bin/Debug/netcoreapp1.1/hellowp.runtimeconfig.dev.json
-bin/Debug/netcoreapp1.1/hellowp.runtimeconfig.json
-obj/hellowp.csproj.nuget.g.props
-obj/hellowp.csproj.nuget.g.targets
-obj/project.assets.json
-obj/Debug/netcoreapp1.1/CoreCompileInputs.cache
-obj/Debug/netcoreapp1.1/hellowp.AssemblyInfo.cs
-obj/Debug/netcoreapp1.1/hellowp.csproj.FileListAbsolute.txt
-obj/Debug/netcoreapp1.1/hellowp.dll
+bin/
+obj/
